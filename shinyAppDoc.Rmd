@@ -1,0 +1,28 @@
+---
+title: "Shiny App - BMI Calculator"
+output: word_document
+---
+
+### Introduction
+
+The Body Mass Index (BMI) is a measurement of relative size based on the mass and height of an individual.
+
+The BMI for a person is defined as their body mass divided by the square of their height with the value universally being given in units of kg/m^2 
+
+#### $$BMI = \frac{mass_{kg}}{height_m^2}$$
+
+
+### Know Your Risks
+
+A frequent use of the BMI is to assess how much an individual's body weight departs from what is normal or desirable for a person of his or her height.
+
+A BMI value of 23 and above indicates that your weight is outside of the healthy weight range for your height.
+
+
+### BMI Calculator
+
+This Shiny App is a BMI calculator. It computes your BMI and derives the risk category.
+
+Please enter your weight in kilogram and height in metre before clicking on the `Compute` button.
+
+
